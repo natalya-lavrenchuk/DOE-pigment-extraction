@@ -2,7 +2,7 @@
 
 This repository contains my work on a **Design of Experiments (DOE)** project, developed for the course *Machine Learning for Process Engineering (SP25)* at the University of Padova.  
 
-The objective was to apply a **Box-Behnken design** (three factors, three levels) to study and optimize the extraction of natural pigments (betacyanin and betaxanthin) from prickly pear. The DOE was analyzed using both **MATLAB** and **Minitab**, with response surface methodology (RSM) and ANOVA used to interpret the results.  
+The objective was to apply a **Box-Behnken design** (three factors, three levels) to study and optimize the extraction of natural pigments (betacyanin and betaxanthin) from pear fruit. The DOE was analyzed using both **MATLAB** and **Minitab**, with response surface methodology (RSM) and ANOVA used to interpret the results.  
 
 ---
 
